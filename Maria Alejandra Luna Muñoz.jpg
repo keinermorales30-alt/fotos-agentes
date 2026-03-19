@@ -1,9 +1,0 @@
-= "https://raw.githubusercontent.com/keinermorales30-alt/fotos-agentes/principal/" 
-& Text.Replace(
-    Text.Replace(
-        Text.Replace(
-            Text.Replace(
-                Text.Replace(
-                    Text.Replace([Asignado a], " ", "%20"),
-                "á", "a"), "é", "e"), "í", "i"), "ó", "o"), "ú", "u")
-& ".jpg"
